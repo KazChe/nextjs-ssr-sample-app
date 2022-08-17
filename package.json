@@ -1,0 +1,8 @@
+{
+  "name": "nexts-ssr",
+  "version": "1.0.0",
+  "description": "nextjs SSR smaple app",
+  "main": "index.js",
+  "author": "kam",
+  "license": "MIT"
+}
