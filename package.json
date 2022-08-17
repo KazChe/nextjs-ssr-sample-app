@@ -2,7 +2,17 @@
   "name": "nexts-ssr",
   "version": "1.0.0",
   "description": "nextjs SSR smaple app",
-  "main": "index.js",
+  "main": "index.jsx",
   "author": "kam",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "next": "^12.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
 }
