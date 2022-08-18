@@ -1,2 +1,2 @@
-# Follows Scott Moss' intor to nextjs
+# Follows Scott Moss' intro to nextjs
 - [Follow here](https://hendrixer.github.io/nextjs-course/)
